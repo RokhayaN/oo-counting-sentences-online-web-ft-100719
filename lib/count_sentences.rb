@@ -7,10 +7,10 @@ end
   end
   greeting.new = "Hi!"
   
-  if  "HI!"end_with?.("!")
-    true 
+  if "HI!"end_with?.("!")
+    puts true 
   else 
-    false 
+   puts  false 
   end
 
 
