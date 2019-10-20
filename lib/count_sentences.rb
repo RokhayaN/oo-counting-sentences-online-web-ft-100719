@@ -3,9 +3,10 @@ require 'pry'
 class String
 end
   def sentence?(greeting)
-    greeting.new = "HI!"
-      @greeting = self.greeting
+      @greeting = greeting
   end
+  
+  def 
 
 
 
