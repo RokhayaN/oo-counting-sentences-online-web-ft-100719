@@ -5,8 +5,13 @@ end
   def sentence?(greeting)
       @greeting = greeting
   end
+  greeting.new = "Hi!"
   
-  def 
+  if  "HI!"end_with?.("!")
+    true 
+  else 
+    false 
+  end
 
 
 
